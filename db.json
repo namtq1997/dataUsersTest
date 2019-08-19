@@ -1,18 +1,4 @@
 {
- "user": [
-    {
-      "id": 1,
-      "name": "Tran Quoc Nam",
-      "username": "namtq",
-      "password": "2913999a" 
-    },
-    {
-      "id": 2,
-      "name": "Tran Quoc Viet",
-      "username": "viettq",
-      "password": "2913999b" 
-    }
- ],
   "posts": [
     {
       "id": 1,
@@ -26,5 +12,20 @@
       "id": 3,
       "title": "Post 3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

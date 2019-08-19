@@ -5,6 +5,26 @@
       "name": "Tran Quoc Nam",
       "username": "namtq",
       "password": "2913999a" 
+    },
+    {
+      "id": 2,
+      "name": "Tran Quoc Viet",
+      "username": "viettq",
+      "password": "2913999b" 
     }
-  ]
+ ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
 }
